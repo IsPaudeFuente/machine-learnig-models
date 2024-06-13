@@ -1,0 +1,16 @@
+jupyterlab
+notebook
+viola
+ipywidgets
+pandas 
+numpy
+scipy
+scikit-learn
+tensorflow
+keras
+xgboost
+imblearn
+category-encoders
+statsmodels
+matplotlib
+seaborn

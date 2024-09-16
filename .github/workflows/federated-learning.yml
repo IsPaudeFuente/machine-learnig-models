@@ -1,0 +1,16 @@
+name: Federated Learning
+
+on:
+  push:
+    branches: [ "master", "main", "develop" ]
+    paths:
+      - src/federated-learning/**
+      - .github/workflows/federated-learning.yml
+  pull_request:
+    branches: [ "master", "main", "develop" ]
+    paths:
+      - src/federated-learning/**
+      - .github/workflows/federated-learning.yml
+
+jobs:
+    
